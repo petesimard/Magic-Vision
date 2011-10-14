@@ -1,0 +1,3 @@
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DShowNET\bin\Release\DShowNET.dll
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DShowNET\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DShowNET\obj\Release\DShowNET.dll

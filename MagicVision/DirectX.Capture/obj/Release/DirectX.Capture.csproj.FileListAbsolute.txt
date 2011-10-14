@@ -1,0 +1,5 @@
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DirectX.Capture\bin\Release\DirectX.Capture.dll
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DirectX.Capture\bin\Release\DirectX.Capture.xml
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DirectX.Capture\bin\Release\DShowNET.dll
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DirectX.Capture\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DirectX.Capture\obj\Release\DirectX.Capture.dll

@@ -1,0 +1,10 @@
+C:\Users\Pete\Documents\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DShowNET\bin\Debug\DShowNET.dll
+C:\Users\Pete\Documents\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DShowNET\bin\Debug\DShowNET.pdb
+C:\Users\Pete\Documents\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DShowNET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pete\Documents\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DShowNET\obj\Debug\DShowNET.dll
+C:\Users\Pete\Documents\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DShowNET\obj\Debug\DShowNET.pdb
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DShowNET\bin\Debug\DShowNET.dll
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DShowNET\bin\Debug\DShowNET.pdb
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DShowNET\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DShowNET\obj\Debug\DShowNET.dll
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DShowNET\obj\Debug\DShowNET.pdb

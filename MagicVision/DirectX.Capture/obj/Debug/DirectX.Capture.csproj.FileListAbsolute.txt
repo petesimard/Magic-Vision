@@ -1,0 +1,14 @@
+C:\Users\Pete\Documents\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pete\Documents\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+C:\Users\Pete\Documents\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+C:\Users\Pete\Documents\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\bin\Debug\DShowNET.dll
+C:\Users\Pete\Documents\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\bin\Debug\DShowNET.pdb
+C:\Users\Pete\Documents\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+C:\Users\Pete\Documents\DirectXCapture_demo_Enhanced\DirectXCapture_demo_Enhanced\DirectXCapture_demo\DirectX.Capture\obj\Debug\DirectX.Capture.pdb
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DirectX.Capture\bin\Debug\DirectX.Capture.dll
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DirectX.Capture\bin\Debug\DirectX.Capture.pdb
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DirectX.Capture\bin\Debug\DShowNET.dll
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DirectX.Capture\bin\Debug\DShowNET.pdb
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DirectX.Capture\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DirectX.Capture\obj\Debug\DirectX.Capture.dll
+C:\Users\Pete\Dropbox\Projects\Fun\PoolVision\PoolVision\DirectX.Capture\obj\Debug\DirectX.Capture.pdb
